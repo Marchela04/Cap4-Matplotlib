@@ -1,0 +1,9 @@
+pandas
+uproot3
+uproot==4.0.11
+awkward==1.4.0
+numpy
+matplotlib
+mplhep
+uncertainties
+pip
